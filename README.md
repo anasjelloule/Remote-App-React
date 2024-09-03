@@ -32,6 +32,7 @@ This repository contains a React remote application that is built using **Vite**
 Clone the repository and install dependencies For Development Mode:
 
  #### 1. Clone the Repository
-#### 2. run `npm run watch`
-#### 3. run `npm run preview`
+ #### 2. Go inside the repository
+#### 3. run `npm run watch`
+#### 4. run `npm run preview`
 make sure the Host app are started 
